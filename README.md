@@ -124,3 +124,6 @@ Service type is LoadBalancer. For Ingress setups, change it to ClusterIP and cre
 
 This setup provides a full DevOps workflow—from local development to cloud deployment—with CI/CD, infrastructure automation, and monitoring, all ready for real-world scenarios.
 <img width="733" height="2778" alt="image" src="https://github.com/user-attachments/assets/b8f72bed-3c79-47d4-b45f-cd278d3c5460" />
+
+
+For any query/suggestion feel free to drop a mail to me at anujpal0512@gmail.com
